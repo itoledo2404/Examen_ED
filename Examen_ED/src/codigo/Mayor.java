@@ -10,7 +10,7 @@ public class Mayor {
 
 	//Constructor
 	public Mayor() {
-		a=0;
+		a=10;
 		b=0;
 	}
 	
@@ -27,4 +27,5 @@ public class Mayor {
 		if(a>b) return a;
 		else return b;
 	}
+	
 }
