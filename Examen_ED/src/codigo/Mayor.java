@@ -10,7 +10,7 @@ public class Mayor {
 
 	//Constructor
 	public Mayor() {
-		a=10;
+		a=0;
 		b=0;
 	}
 	
